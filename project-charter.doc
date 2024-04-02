@@ -3,10 +3,16 @@ Project Charter: Website and Mobile App Development for WineLovers restaurant
 Project Title: Digital Presence Development for WineLovers restaurant
 
 
-Project Objectives:
+Project Summary:
 Develop a user-friendly website for WineLovers to showcase its menu, location, contact information, and other relevant details.
 Design and develop a mobile application for Android devices to enhance customer engagement and facilitate online ordering.
 Ensure seamless integration between the website and the mobile app to provide consistent branding and user experience.
+
+
+Goals:
+- Become more customer centric
+- Improve customer experience (proven by surveys) in at least 33%
+- Increase sales by 20%
 
 
 Scope:
@@ -25,18 +31,30 @@ Benefits:
 - Investing on the brand
 
 
-Goals:
-- Become more customer centric
-- Improve customer experience
-- Increase sales
-
-
 Deliverables:
 - Website deliverables (user-friendly interface and functional and responsive website)
 - Mobile app deliverables (app compatible with multiple devices and screen sizes, secure and seamless navigation)
 - Documentation
 - Training materials 
 - Deployment and launch
+
+Budget: 30.000€
+Costs:
+- Training staff
+- Conduct surveys to measure clients satisfaction
+- Development, testing and maintaining the website and the Android app
+
+Appendix:
+- Delays in obtaining necessary licenses or permits.
+- Technical challenges during website and app development.
+- Inadequate testing leading to post-launch issues.
+- Changes in restaurant branding or requirements.
+
+
+Assumptions:
+- Availability of required resources, including personnel and technology.
+- Access to necessary data and content for website and app development.
+- Timely feedback from stakeholders.
 
 
 Stakeholders:
@@ -49,33 +67,4 @@ Stakeholders:
 Timeline:
 - Start Date: 01/04/2024
 - End Date: 01/07/2024
-
-
-Key Milestones:
-- Requirements Gathering and Analysis
-- Website Design and Development
-- Mobile App Design and Development
-- Integration and Testing
-- Staff Training
-- Launch and Deployment
-
-
-Budget: 30.000€
-Costs:
-- Training staff
-- Conduct surveys to measure clients satisfaction
-- Development, testing and maintaining the website and the Android app
-
-
-Risks:
-- Delays in obtaining necessary licenses or permits.
-- Technical challenges during website and app development.
-- Inadequate testing leading to post-launch issues.
-- Changes in restaurant branding or requirements.
-
-
-Assumptions:
-- Availability of required resources, including personnel and technology.
-- Access to necessary data and content for website and app development.
-- Timely feedback from stakeholders.
 
