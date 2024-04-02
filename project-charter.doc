@@ -2,14 +2,14 @@ Project Charter: Website and Mobile App Development for WineLovers restaurant
 
 Project Title: Digital Presence Development for WineLovers restaurant
 
-Project Objectives:
 
+Project Objectives:
 Develop a user-friendly website for WineLovers to showcase its menu, location, contact information, and other relevant details.
 Design and develop a mobile application for Android devices to enhance customer engagement and facilitate online ordering.
 Ensure seamless integration between the website and the mobile app to provide consistent branding and user experience.
 
-Scope:
 
+Scope:
 - Design and development of a responsive website compatible with various devices and screen sizes.
 - Creation of a mobile application for Android devices, focusing on features such as menu browsing, online ordering and table reservations.
 - Testing and quality assurance to ensure optimal performance and user experience.
@@ -21,27 +21,24 @@ Out of Scope:
 
 
 Stakeholders:
-
-Sandra Fortier (owner)
-Website and Mobile App Development Team
-Restaurant Staff
-Customers
+- Sandra Fortier (owner)
+- Website and Mobile App Development Team
+- Restaurant Staff
+- Customers
 
 
 Timeline:
-
-Start Date: 01/04/2024
-End Date: 01/07/2024
+- Start Date: 01/04/2024
+- End Date: 01/07/2024
 
 
 Key Milestones:
-
-Requirements Gathering and Analysis
-Website Design and Development
-Mobile App Design and Development
-Integration and Testing
-Staff Training
-Launch and Deployment
+- Requirements Gathering and Analysis
+- Website Design and Development
+- Mobile App Design and Development
+- Integration and Testing
+- Staff Training
+- Launch and Deployment
 
 
 Budget: 30.000€
@@ -52,17 +49,14 @@ Costs:
 
 
 Risks:
-
-Delays in obtaining necessary licenses or permits.
-Technical challenges during website and app development.
-Inadequate testing leading to post-launch issues.
-Changes in restaurant branding or requirements.
+- Delays in obtaining necessary licenses or permits.
+- Technical challenges during website and app development.
+- Inadequate testing leading to post-launch issues.
+- Changes in restaurant branding or requirements.
 
 
 Assumptions:
-
-Availability of required resources, including personnel and technology.
-Access to necessary data and content for website and app development.
-Timely decision-making and feedback from stakeholders.
-
+- Availability of required resources, including personnel and technology.
+- Access to necessary data and content for website and app development.
+- Timely decision-making and feedback from stakeholders.
 
